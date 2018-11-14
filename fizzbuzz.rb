@@ -8,6 +8,5 @@ def fizzbuzz(int)
     "Buzz"
   elsif int % 15 = 0
     "Fizzbuzz"
-  elsif int   
   end 
 end 
